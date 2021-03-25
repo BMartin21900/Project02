@@ -63,7 +63,7 @@ o  Fix any bugs or issues with HTML/CSS
 ### New fonts:
 
 - Abel (From Google Fonts): This font fits the theme/mood of the website as its very modern to reflect the digital aspect of the site. This geometric style font is visually pleasing while also being very direct with the information. This fits our site well as the user eyes are drawn towards it giving the sense of seeing something new while traveling.
-- Roboto (From Google Fonts): To make sure the fonts fit well together, we will use the recommended font from google.
+- Roboto (From Google Fonts): To make sure the fonts fit well together, we will use the recommended font from google. Also this font provides the user with good legibility while reading large amounts of text.
 
 
 
@@ -75,6 +75,6 @@ As a general rule of thumb all of these changes will be worked on by all of us, 
 
 ​	Gina: As IA, she will be focusing on content and layout choices. 
 
-​	Qianya: As VD, she will be focusing on usability and ascetics.
+​	Qianya: As VD, she will be focusing on usability and asthetics.
 
 ​	Bradley: As Tec., he will be focusing on HTML and CSS writing/formatting, bug fixing, and making it a bullet proof website.
