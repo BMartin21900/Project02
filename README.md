@@ -48,15 +48,27 @@ Our Github repo: https://github.com/BMartin21900/Project02/
 
 - *Bradley:* Readability and Legibility improvements
 
+### Specific Issues:
 
-
-o  No offset/ font shadows
-
-o  Line length too long
-
-o  Increase font size
-
-o  Fix any bugs or issues with HTML/CSS
+- No offset/ font shadows
+  - Creates a legibility issue that would be solved by getting rid of them.
+-  Line length too long
+  - Creates a readability issue
+- Increase font size
+  - Too small for the user to easily read. For a vacation website, we do not want the user to have to work to read the words. They should be as clear as possible to replicate the feel of being on vacation.
+- Nav needs overhaul
+  - Text has legibility issue
+  - Buttons are small
+  - They do not look like buttons
+  - No telling what page the user is currently on
+  - Hover function is on wrong element
+- All header content is centered
+  - This is an engagement issue as people get bored from everything being in the center (I was told this was called the pyramid design mistake). This is not the feeling we want for a adventurous website.
+  - This also does not guide the user's eyes from top-left to bottom-right.
+- All content is centered
+  - Does not follow the users natural eye gravity from top-left to bottom-right.
+- Fix any bugs or issues with HTML/CSS
+  - Creating bullet proof websites
 
  
 
