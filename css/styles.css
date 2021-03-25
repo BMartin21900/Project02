@@ -134,3 +134,26 @@ header, footer, .bottomhalf{
 .shadow{
 	box-shadow: 15px 5px 10px grey;
 }
+
+/*Navigation styles-->*/
+.menu li{
+	display: inline-block;
+	text-decoration: none;
+	border: 3px solid #ff0019;
+	border-style: outset;
+	padding: 2px;
+	background-color: #FFFFFF;
+	color: #000000;
+}
+.menu ul{
+	text-decoration: none;
+}
+.menu li a:hover{
+	display: block;
+	color: 	#ffffff;
+	background-color: #ff0019;
+}
+.menu .is-current{
+	background-color: #000000;
+}
+/*<--Navigation styles*/
