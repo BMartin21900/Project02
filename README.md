@@ -64,7 +64,7 @@ Our Github repo: https://github.com/BMartin21900/Project02/
   - Hover function is on wrong element
 - All header content is centered
   - This is an engagement issue as people get bored from everything being in the center (I was told this was called the pyramid design mistake). This is not the feeling we want for a adventurous website.
-  - This also does not guide the users eyes from top-left to bottom-right.
+  - This also does not guide the user's eyes from top-left to bottom-right.
 - All content is centered
   - Does not follow the users natural eye gravity from top-left to bottom-right.
 - Fix any bugs or issues with HTML/CSS
@@ -75,7 +75,7 @@ Our Github repo: https://github.com/BMartin21900/Project02/
 ### New fonts:
 
 - Abel (From Google Fonts): This font fits the theme/mood of the website as its very modern to reflect the digital aspect of the site. This geometric style font is visually pleasing while also being very direct with the information. This fits our site well as the user eyes are drawn towards it giving the sense of seeing something new while traveling.
-- Roboto (From Google Fonts): To make sure the fonts fit well together, we will use the recommended font from google.
+- Roboto (From Google Fonts): To make sure the fonts fit well together, we will use the recommended font from google. Also this font provides the user with good legibility while reading large amounts of text.
 
 
 
@@ -87,6 +87,6 @@ As a general rule of thumb all of these changes will be worked on by all of us, 
 
 ​	Gina: As IA, she will be focusing on content and layout choices. 
 
-​	Qianya: As VD, she will be focusing on usability and ascetics.
+​	Qianya: As VD, she will be focusing on usability and asthetics.
 
 ​	Bradley: As Tec., he will be focusing on HTML and CSS writing/formatting, bug fixing, and making it a bullet proof website.
