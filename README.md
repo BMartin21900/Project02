@@ -28,11 +28,11 @@ Our Github repo: https://github.com/BMartin21900/Project02/
 
 ### Wireframes:
 
-<img src="C:\Users\brads\AppData\Roaming\Typora\typora-user-images\image-20210325125912491.png" alt="image-20210325125912491" style="zoom: 25%;" />
+<img src="https://github.com/BMartin21900/Project02/blob/main/F-Layout.png?raw=true" alt="F-Layout.png" style="zoom: 33%;" />
 
 
 
- <img src="C:\Users\brads\AppData\Roaming\Typora\typora-user-images\image-20210325130106470.png" alt="image-20210325130106470" style="zoom: 50%;" />
+ <img src="https://github.com/BMartin21900/Project02/blob/main/Z-Layout.jpg?raw=true" alt="Z-Layout.jpg" style="zoom:33%;" />
 
 ### Possible improvements:
 
