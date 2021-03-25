@@ -64,7 +64,7 @@ Our Github repo: https://github.com/BMartin21900/Project02/
   - Hover function is on wrong element
 - All header content is centered
   - This is an engagement issue as people get bored from everything being in the center (I was told this was called the pyramid design mistake). This is not the feeling we want for a adventurous website.
-  - This also does not guide the users eyes from top-left to bottom-right.
+  - This also does not guide the user's eyes from top-left to bottom-right.
 - All content is centered
   - Does not follow the users natural eye gravity from top-left to bottom-right.
 - Fix any bugs or issues with HTML/CSS
