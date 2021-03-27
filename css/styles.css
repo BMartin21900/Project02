@@ -8,6 +8,7 @@ h1 a, h2, h3 {
 	font-family: "Abel", sans-serif;
 }
 
+/*Header styles-->*/
 header {
 	display: flex;
 	justify-content: space-between;
@@ -32,15 +33,24 @@ nav li {
 	display: flex;
 }
 
+/*<--Header styles*/
+
 .container {
 	margin: 0 auto;
 	width: 90%;
 	max-width: 850px;
 }
 
+footer {
+	text-align: center;
+}
 
+footer img {
+	width: 100%;
+	height: auto;
+}
 
-/*-->Previous styles
+/*-->Previous styles from project 1
 body{
 	background: #ffffff
 	color: #000000;
