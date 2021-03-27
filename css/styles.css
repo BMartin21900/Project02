@@ -12,7 +12,7 @@ h1 a, h2, h3 {
 header {
 	display: flex;
 	justify-content: space-between;
-	background-color: #909090; /*only chosen to see current work progress*/
+	background-color: #909090; /*change depending on final layout*/
 	padding: 40px 80px;
 }
 
@@ -54,6 +54,32 @@ footer img {
 	width: 100%;
 	height: auto;
 }
+
+/*Styles for indexpage-->*/
+.indexpage {
+	font-family: "Abel", sans-serif;
+	background-image: url("../images/index_map.png");
+	background-size: cover;
+	display: flex;
+	justify-content: space-between;
+	padding: 300px 70px; /*change depending on final layout*/
+}
+
+#catchphrase {
+	font-size: 50px; /*change depending on final layout*/
+	width: 33%; /*change depending on final layout*/
+}
+
+#startbutton {
+	border: 1px solid black; /*change depending on final layout*/
+	font-size: 30px; /*change depending on final layout*/
+}
+#startbutton a { text-decoration: none; }
+/*<--Styles for indexpage*/
+
+
+
+
 
 /*-->Previous styles from project 1
 body{
