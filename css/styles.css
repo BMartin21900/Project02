@@ -1,3 +1,45 @@
+* {
+	font-family: "Roboto", sans-serif;
+	margin: 0;
+	border: 1px solid hotpink; /*only for work*/
+}
+
+h1 a, h2, h3 {
+	font-family: "Abel", sans-serif;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	background-color: #909090; /*only chosen to see current work progress*/
+	padding: 40px 80px;
+}
+
+header a {
+	text-decoration: none;
+}
+
+nav ul {
+	list-style-type: none;
+	display: flex;
+}
+
+nav li {
+	padding: 10px;
+}
+
+.brand {
+	display: flex;
+}
+
+.container {
+	margin: 0 auto;
+	width: 90%;
+	max-width: 850px;
+}
+
+
+
 /*-->Previous styles
 body{
 	background: #ffffff

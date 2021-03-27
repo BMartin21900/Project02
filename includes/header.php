@@ -1,8 +1,7 @@
 <header>
-	<img src="images/logo.png" alt="Airplane">
-	<h1><a href="index.html">Dulio Foundation</a></h1>
-	<div>
-	 	the logo is here, but it's white, so it needs some background color
+	<div class="brand">
+		<img src="images/logo.png" alt="Airplane">
+		 <h1><a href="index.html">Dulio Foundation</a></h1>
 	</div>
 
   <nav class="menu">
