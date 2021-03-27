@@ -8,8 +8,8 @@
     <ul>
       <li><a href="index.html">Home</a></li>
 			<li><a href="oberursel.html">Oberursel</a></li>
+		 	<li><a href="copenhagen.html">Copenhagen</a></li>
 			<li><a href="nairobi.html">Nairobi</a></li>
-      <li><a href="copenhagen.html">Copenhagen</a></li>
       <li><a href="fuzhou.html">Fuzhou</a></li>
     </ul>
   </nav>
