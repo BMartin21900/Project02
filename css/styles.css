@@ -67,6 +67,7 @@ nav li {
 
 footer{
 	text-align: center;
+
 }
 
 footer img {
@@ -98,7 +99,7 @@ footer img {
 #startbutton a { text-decoration: none; }
 /*<--Styles for indexpage*/
 
-#title>img {
+.title>img {
 	padding: 20px 0px;
 	max-width: 300px;
 	object-fit: cover;
@@ -110,18 +111,18 @@ section{
 	display: flex;
 }
 
-#title{
+.title{
 	float: left;
 }
 
-#content{
+.content{
 	margin: 0px 10px;
 	background-color: #f2f1f7;
 	border-radius: 10px;
 	float: right;
 }
 
-#content>p{
+.content>p{
 	line-height: 1.5em;
 	margin: 15px 15px;
 }
@@ -147,7 +148,32 @@ aside>section>p,li{
 	padding: 5px 5px;
 }
 
+.bg{
+	background-image: linear-gradient(to right,#e96393, #f59062);
+	padding: 5px;
+}
 
+.sources ul{
+	list-style: none;
+	padding: 5px;
+}
+
+.sources ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+.sources ul li a:hover, .next a:hover, .previous a:hover{
+	color:#80b9fe;
+}
+
+.next a, .previous a{
+	font-family: "Abel", sans-serif;
+	text-decoration: none;
+	color:black;
+	font-weight: bold;
+	font-size: 22px;
+}
 
 
 
