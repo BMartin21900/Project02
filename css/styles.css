@@ -1,7 +1,7 @@
 * {
 	font-family: "Roboto", sans-serif;
 	margin: 0;
-	/* border: 1px solid hotpink; */
+	/*border: 1px solid darkred;
 	/*only for work*/
 }
 
@@ -26,39 +26,48 @@ h3{
 
 /*Header styles-->*/
 header {
-	height: 40px;
 	display: flex;
 	justify-content: space-between;
 	background-image: linear-gradient(to right,#e96393, #f59062);
-	padding: 40px 80px;
+	padding: 30px 80px;
 }
 
-h1 { padding-top: 8px;}
+h1 {
+	padding-top: 25px;
+}
 
 header a {
 	color: white;
 	text-decoration: none;
 }
 
+header a:hover {
+	color: #405C80;
+}
 nav ul {
 	list-style-type: none;
 	display: flex;
-	padding-top: 8px;
+	padding-top: 25px;
 }
 
 nav li {
-	font-size: 20px;
+	font-size: 22px;
 	margin-top: 10px;
 	padding: 10px;
 }
+
+ nav a.is-current {
+	text-decoration: underline;
+ }
 
 .brand {
 	display: flex;
 }
 
 .brand img{
-	width: 60px;
-	height: 60px;
+	width: 100px;
+	height: 100px;
+	padding-right: 20px;
 }
 
 /*<--Header styles*/
@@ -122,14 +131,14 @@ footer img {
 	margin: 5px;
 	text-shadow: .2rem 0rem .5rem rgb(150, 222, 255),-.2rem 0rem .5rem rgb(218, 77, 206),0rem .2rem .5rem rgb(248, 165, 234),0rem -.2rem .5rem rgb(255, 206, 173);
   }
-  
+
 .startbutton span {
 	cursor: pointer;
 	display: inline-block;
 	position: relative;
 	transition: 0.5s;
 }
-  
+
 .startbutton span:after {
 	content: '\00bb';
 	position: absolute;
@@ -138,11 +147,11 @@ footer img {
 	right: -20px;
 	transition: 0.5s;
 }
-  
+
 .startbutton:hover span {
 	padding-right: 25px;
 }
-  
+
 .startbutton:hover span:after {
 	opacity: 1;
 	right: 0;
