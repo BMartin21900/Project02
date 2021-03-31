@@ -1,7 +1,7 @@
 * {
 	font-family: "Roboto", sans-serif;
 	margin: 0;
-	border: 1px solid hotpink;
+/*	border: 1px solid hotpink;*/
 	/*only for work*/
 }
 
@@ -85,8 +85,10 @@ footer img {
 }
 
 #catchphrase {
-	font-size: 50px; /*change depending on final layout*/
+	font-size: 75px; /*change depending on final layout*/
 	width: 33%; /*change depending on final layout*/
+	font-family: "Abel", sans-serif;
+	font-weight: bold;
 }
 
 #startbutton {
