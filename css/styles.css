@@ -85,7 +85,8 @@ nav li {
 
 footer{
 	text-align: center;
-
+	color: white;
+	line-height: 1.5em;
 }
 
 footer img {
@@ -96,30 +97,34 @@ footer img {
 /*Styles for indexpage-->*/
 .indexpage {
 	font-family: "Abel", sans-serif;
-	background-image: url("../images/footer_map.png");
+	background-image: url("../images/index_bg.png");
 	background-size: contain;
-	background-position: center top;
+	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 130%;
 	display: flex;
 	justify-content: space-between;
-	padding: 300px 70px; /*change depending on final layout*/
+	padding: 300px 80px 200px 80px; /*change depending on final layout*/
 }
 
 #catchphrase {
-	font-size: 75px; /*change depending on final layout*/
+	font-size: 60px; /*change depending on final layout*/
 	width: 33%; /*change depending on final layout*/
 	font-family: "Abel", sans-serif;
 	font-weight: bold;
+	text-align: center;
 	color: white;
-	text-shadow: .2rem 0rem .5rem rgb(150, 222, 255),-.2rem 0rem .5rem rgb(218, 77, 206),0rem .2rem .5rem rgb(248, 165, 234),0rem -.2rem .5rem rgb(255, 206, 173);
+	/*text-shadow: .2rem 0rem .5rem rgb(150, 222, 255),-.2rem 0rem .5rem rgb(218, 77, 206),0rem .2rem .5rem rgb(248, 165, 234),0rem -.2rem .5rem rgb(255, 206, 173);*/
+	background-color: rgba(54, 54, 54, 0.8);
+	border-radius: 10px;
+	padding: 15px;
 }
 
 .startbutton {
 	display: inline-block;
-	border-radius: 4px;
-	background-color: rgba(54, 54, 54, 0.5);
+	background-color: rgba(54, 54, 54, 0.8);
 	border: solid 1px rgb(221, 221, 221);
+	border-radius: 10px;
 	color: #ffffff;
 	text-align: center;
 	font-size: 28px;
@@ -128,7 +133,7 @@ footer img {
 	width: 220px;
 	transition: all 0.5s;
 	cursor: pointer;
-	margin: 5px;
+	margin-top: 70px;
 	text-shadow: .2rem 0rem .5rem rgb(150, 222, 255),-.2rem 0rem .5rem rgb(218, 77, 206),0rem .2rem .5rem rgb(248, 165, 234),0rem -.2rem .5rem rgb(255, 206, 173);
   }
 
