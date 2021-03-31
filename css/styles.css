@@ -211,6 +211,23 @@ aside>section>p,li{
 	padding: 5px 5px;
 }
 
+.book {
+	margin: 5px;
+	margin-left: 80px;
+	float: right;
+	text-align: center;
+	background-image: linear-gradient(to right,#e96393, #f59062);
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.book a {
+	color: white;
+	text-decoration: none;
+}
+
+.book a:hover { color: #405C80; }
+
 .bg{
 	background-image: linear-gradient(to right,#e96393, #f59062);
 	padding: 5px;
