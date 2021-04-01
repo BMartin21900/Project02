@@ -120,6 +120,9 @@ footer img {
 	background-color: rgba(54, 54, 54, 0.8);
 	border-radius: 10px;
 	padding: 15px;
+	position: absolute;
+	left: 40px;
+	bottom: 40px;
 }
 
 .startbutton {
@@ -137,6 +140,9 @@ footer img {
 	cursor: pointer;
 	margin-top: 70px;
 	text-shadow: .2rem 0rem .5rem rgb(150, 222, 255),-.2rem 0rem .5rem rgb(218, 77, 206),0rem .2rem .5rem rgb(248, 165, 234),0rem -.2rem .5rem rgb(255, 206, 173);
+	/* position: absolute;
+	right: 40px;
+	bottom: 100px; */
   }
 
 .startbutton span {
@@ -172,7 +178,7 @@ footer img {
 
 section{
 	max-width: 830px;
-    margin: 50px 0px;
+  margin: 50px 0px;
 	display: flex;
 }
 
@@ -205,8 +211,8 @@ aside{
 aside>section{
 	background-color: #f2f1f7;
 	border-radius: 10px;
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 aside>section>p,li{
@@ -438,7 +444,6 @@ header, footer, .bottomhalf{
 	box-shadow: 15px 5px 10px grey;
 }
 
-/*Navigation styles-->
 .menu li{
 	display: inline-block;
 	text-decoration: none;
@@ -459,5 +464,4 @@ header, footer, .bottomhalf{
 .menu .is-current{
 	background-color: #000000;
 }
-/*<--Navigation styles
 */
