@@ -29,7 +29,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	background-image: linear-gradient(to right,#e96393, #f59062);
-	padding: 30px 80px;
+	padding: 23px 80px;
 }
 
 h1 {
@@ -97,14 +97,16 @@ footer img {
 /*Styles for indexpage-->*/
 .indexpage {
 	font-family: "Abel", sans-serif;
-	background-image: url("../images/index_map.png");
-	background-size: contain;
-	background-position: center;
+	background-image: url("../images/index_noflags.png");
+	background-size: 1920px;
 	background-repeat: no-repeat;
-	background-size: 130%;
+	background-attachment: fixed;
+	position: relative;
+	height: 100%;
 	display: flex;
 	justify-content: space-between;
 	padding: 300px 80px 200px 80px; /*change depending on final layout*/
+	width: auto;
 }
 
 #catchphrase {
@@ -253,6 +255,43 @@ aside>section>p,li{
 	color:black;
 	font-weight: bold;
 	font-size: 22px;
+}
+
+.flagO, .flagC, .flagN, .flagF{
+	position: absolute;
+}
+
+.flagO img, .flagC img, .flagN img, .flagF img{
+	width: 40px;
+}
+
+
+.flagO{
+	top:160px;
+	left:690px;
+}
+
+.flagC{
+	top:100px;
+	left:725px;
+}
+
+.flagN{
+	top:550px;
+	left:890px;
+}
+
+.flagF{
+	top:380px;
+	left:1425px;
+}
+
+.flagO img, .flagC img, .flagN img, .flagF img{
+	transition: .5s ease-out;
+}
+
+.flagO img:hover, .flagC img:hover, .flagN img:hover, .flagF img:hover{
+	width: 50px;
 }
 
 
