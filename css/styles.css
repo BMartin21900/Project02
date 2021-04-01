@@ -294,7 +294,15 @@ aside>section>p,li{
 	width: 50px;
 }
 
-
+@media (max-width: 1150px) {
+	aside {
+		float: none;
+		margin: 0 auto;
+		width: 90%;
+		max-width: 500px;
+	}
+	#left { float: none;}
+}
 
 /*-->Previous styles from project 1
 body{
